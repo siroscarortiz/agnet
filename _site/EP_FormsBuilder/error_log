@@ -1,0 +1,44 @@
+[05-Apr-2017 23:36:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 10
+[05-Apr-2017 23:36:49 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 4352
+[05-Apr-2017 23:42:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 10
+[05-Apr-2017 23:42:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'algaefar_oscar'@'localhost' to database 'algaefar_epfb' in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 105
+[05-Apr-2017 23:42:54 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 4352
+[05-Apr-2017 23:48:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 10
+[05-Apr-2017 23:48:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'algaefar_oscar'@'localhost' to database 'algaefar_epfb' in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 105
+[05-Apr-2017 23:48:51 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 4352
+[05-Apr-2017 23:50:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 10
+[05-Apr-2017 23:50:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'algaefar_oscar'@'localhost' to database 'algaefar_epfb' in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 105
+[05-Apr-2017 23:50:48 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 4352
+[05-Apr-2017 23:52:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 10
+[05-Apr-2017 23:52:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'algaefar_admin'@'localhost' (using password: YES) in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 105
+[05-Apr-2017 23:52:20 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 4352
+[05-Apr-2017 23:52:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 10
+[05-Apr-2017 23:52:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'algaefar_admin'@'localhost' (using password: YES) in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 105
+[05-Apr-2017 23:52:30 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 4352
+[05-Apr-2017 23:56:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 10
+[05-Apr-2017 23:56:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 4352
+[05-Apr-2017 23:57:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:45 UTC] PHP Warning:  Creating default object from empty value in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 373
+[05-Apr-2017 23:57:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:58 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:58 UTC] PHP Warning:  Creating default object from empty value in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 373
+[05-Apr-2017 23:57:58 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:58 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:58 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:58 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:57:58 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:58:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:58:45 UTC] PHP Warning:  Creating default object from empty value in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 373
+[05-Apr-2017 23:58:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:58:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:58:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:58:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[05-Apr-2017 23:58:45 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/algaefar/public_html/EP_FormsBuilder/viewForm.php on line 59
+[06-Apr-2017 03:42:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 615
+[06-Apr-2017 03:47:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 615
+[07-Apr-2017 19:08:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 615
+[10-Apr-2017 01:29:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/algaefar/public_html/EP_FormsBuilder/index.php on line 615
